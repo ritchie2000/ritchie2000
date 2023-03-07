@@ -3,7 +3,7 @@
 
 My name is **Ritchie**
 
-- 👨‍💻 I’m a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003133).
+- 👨‍💻 I’m not a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/).
 - 💕 Open source enthusiast.
 - 👔 Software engineer.
 - 🧚‍♂️ Anime lover.
